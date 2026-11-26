@@ -2,7 +2,7 @@ name: Refresh licensed price database
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 9 * * 1'
+    - cron: '23 9 * * *'
 permissions:
   contents: read
 concurrency:
@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Refresh validated database
         run: PRICE_REUSE_APPROVED=yes python3 import_prices.py
-      - run: SITE_URL=https://example.com node build.mjs
+      - run: SITE_URL=https://precioradar-rd.pages.dev node build.mjs
       - name: Persist changed database
         run: |
           git add data/proconsumidor.json
