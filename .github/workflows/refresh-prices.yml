@@ -1,48 +1,23 @@
-name: Persist and refresh licensed price database
+name: Refresh licensed price database
 on:
   workflow_dispatch:
-  push:
-    branches: [feature/initial-directory]
-    paths: ['.github/workflows/refresh-prices.yml']
   schedule:
     - cron: '23 9 * * 1'
 permissions:
-  contents: write
+  contents: read
 concurrency:
-  group: price-refresh-${{ github.ref }}
+  group: price-refresh
   cancel-in-progress: false
 jobs:
   refresh:
-    if: github.repository == 'PuntaCanada/PrecioRadar-RD'
+    if: github.repository == 'PuntaCanada/PrecioRadar-RD' && github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }}
-      - name: Seed exact validated artifact on development branch
-        if: github.ref_name == 'feature/initial-directory'
-        uses: actions/download-artifact@v4
-        with:
-          name: licensed-price-data
-          run-id: 45816173874
-          github-token: ${{ github.token }}
-          path: data
-      - name: Validate baseline
-        run: |
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          p=Path('data/proconsumidor.json')
-          rows=json.loads(p.read_text())
-          assert len(rows)>=570
-          keys={(r['name'].casefold(),r['unit'].casefold(),r['period'],r['sector'].casefold()) for r in rows}
-          assert len(keys)==len(rows)
-          assert all(r['price']>0 and r['period'] in ('2026-07','2026-08','2026-09') for r in rows)
-          print('Baseline:',len(rows))
-          PY
-      - name: Refresh on main only
-        if: github.ref_name == 'main'
+      - name: Refresh validated database
         run: PRICE_REUSE_APPROVED=yes python3 import_prices.py
       - run: SITE_URL=https://example.com node build.mjs
       - name: Persist changed database
@@ -51,5 +26,5 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Persist validated licensed price database'
-          git push origin HEAD:"$GITHUB_REF_NAME"
+          git commit -m 'Refresh validated licensed price database'
+          git push origin HEAD:main
