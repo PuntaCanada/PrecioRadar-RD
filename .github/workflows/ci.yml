@@ -10,6 +10,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node --test tests/retail.test.mjs
       - run: test -s data/proconsumidor.json
       - run: SITE_URL=https://precioradar-rd.pages.dev node build.mjs
       - run: npm install --no-save playwright
@@ -20,7 +21,7 @@ jobs:
           import assert from 'node:assert/strict';
           import {createServer} from 'node:http';
           import {readFileSync,mkdirSync} from 'node:fs';
-          const server=createServer((req,res)=>{try{const path=new URL(req.url,'http://localhost').pathname;res.setHeader('Content-Type',path.endsWith('.svg')?'image/svg+xml':path.endsWith('.xml')?'application/xml':'text/html; charset=utf-8');res.end(readFileSync('public'+path+(path.endsWith('/')?'index.html':'')))}catch{res.statusCode=404;res.end()}});
+          const server=createServer((req,res)=>{try{const path=new URL(req.url,'http://localhost').pathname;res.setHeader('Content-Type',path.endsWith('.mjs')?'text/javascript':path.endsWith('.json')?'application/json':path.endsWith('.svg')?'image/svg+xml':path.endsWith('.xml')?'application/xml':'text/html; charset=utf-8');res.end(readFileSync('public'+path+(path.endsWith('/')?'index.html':'')))}catch{res.statusCode=404;res.end()}});
           await new Promise(r=>server.listen(0,'127.0.0.1',r));const origin='http://127.0.0.1:'+server.address().port;
           const browser=await chromium.launch();mkdirSync('screenshots',{recursive:true});
           const data=[...JSON.parse(readFileSync('data/observations.json')), ...JSON.parse(readFileSync('data/proconsumidor.json'))];
@@ -28,7 +29,7 @@ jobs:
           for(const width of [375,1440])for(const lang of ['es','en','de','fr','it'])for(const mode of ['lite','modern']){
           const ctx=await browser.newContext({viewport:{width,height:900},locale:lang});await ctx.addInitScript(m=>{if(!localStorage.getItem('display-mode'))localStorage.setItem('display-mode',m)},mode);
           const p=await ctx.newPage();const images=[],errors=[];p.on('request',r=>{if(r.resourceType()==='image')images.push(r.url())});p.on('pageerror',e=>errors.push(e.message));
-          await p.goto(origin+'/'+lang+'/');assert.equal(await p.locator('html').getAttribute('lang'),lang);assert.equal(await p.locator('html').getAttribute('data-mode'),mode);assert.equal(await p.locator('[data-observation]').count(),data.length);assert.equal(await p.locator('link[rel=canonical]').getAttribute('href'),'https://precioradar-rd.pages.dev/'+lang+'/');assert.equal(await p.locator('link[hreflang]').count(),5);assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+          await p.goto(origin+'/'+lang+'/');await p.waitForFunction(()=>document.querySelector('#retail-results').textContent.length>0);assert.ok(await p.locator('#retail-status').isVisible());assert.equal(await p.locator('#retail-city option').count(),1);assert.equal(await p.locator('html').getAttribute('lang'),lang);assert.equal(await p.locator('html').getAttribute('data-mode'),mode);assert.equal(await p.locator('[data-observation]').count(),data.length);assert.equal(await p.locator('link[rel=canonical]').getAttribute('href'),'https://precioradar-rd.pages.dev/'+lang+'/');assert.equal(await p.locator('link[hreflang]').count(),5);assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
           await p.locator('#q').fill('Arroz');assert.ok(await p.locator('[data-observation]:visible').count()>0);
           if(mode==='modern'){await p.locator('[data-observation]:visible').first().scrollIntoViewIfNeeded();await p.waitForFunction(()=>Array.from(document.querySelectorAll('.product-illustration')).some(i=>i.complete&&i.naturalWidth>0));assert.ok(images.some(u=>u.endsWith('/illustrations/rice.svg')));assert.ok(images.every(u=>u.startsWith(origin+'/illustrations/')))}
           await p.locator('#q').fill('zzzzzz');assert.equal(await p.locator('[data-observation]:visible').count(),0);await p.locator('#q').fill('');await p.locator('#group').selectOption('libra');assert.ok(await p.locator('[data-observation]:visible').count()>0);await p.locator('#group').selectOption('');assert.equal(await p.locator('[data-observation]:visible').count(),24);await p.locator('#next').click();assert.ok((await p.locator('#count').innerText()).startsWith('25'));await p.locator('#prev').click();await p.locator('#compare').selectOption({index:1});assert.ok(await p.locator('#comparison-results p').count()>1);
@@ -36,6 +37,31 @@ jobs:
           if(mode==='lite'){assert.equal(images.length,0);assert.equal(await p.locator('.product-illustration').count(),0)}else{await p.locator('#display-mode').selectOption('lite');await p.reload();images.length=0;await p.locator('#q').fill('Arroz');await p.waitForTimeout(250);assert.equal(await p.locator('#display-mode').inputValue(),'lite');assert.equal(images.length,0)}
           assert.deepEqual(errors,[]);console.log(lang,width,mode,'passed',images.length,'final image requests');await ctx.close();
           }
+          // Synthetic records are intercepted only inside the browser test, never written to public/.
+          for(const lang of ['es','en','de','fr','it']){
+            const ctx=await browser.newContext({viewport:{width:375,height:900},locale:lang});
+            const p=await ctx.newPage();const errors=[];p.on('pageerror',e=>errors.push(e.message));
+            const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Santo_Domingo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+            const old=new Date(Date.parse(today)-86400000).toISOString().slice(0,10);
+            const a={gtin:'04006381333931',name:'TEST ONLY Rice',retailer:'TEST A',city:'TEST CITY',store:'TEST A1',channel:'store',unit:'kg',quantity:0.5,cents:10000,date:today,url:'https://example.com/test',regularCents:12000,offerUntil:today};
+            const b={...a,retailer:'TEST B',store:'TEST B1',cents:11000,regularCents:undefined,offerUntil:undefined};
+            const c={...a,gtin:'00012345678905',name:'TEST ONLY Beans',cents:5000,regularCents:undefined,offerUntil:undefined};
+            await p.route('**/retail.json',route=>route.fulfill({json:[a,b,c,{...a,date:old,cents:11500,regularCents:undefined,offerUntil:undefined}]}));
+            await p.goto(origin+'/'+lang+'/');await p.waitForFunction(()=>document.querySelector('#retail-city').options.length===2);
+            await p.locator('#retail-city').selectOption('TEST CITY');
+            await p.locator('#retail-query').fill('Rice');assert.equal(await p.locator('#retail-results button').count(),2);
+            await p.locator('#retail-offers').check();assert.equal(await p.locator('#retail-results button').count(),1);
+            await p.locator('#retail-results button').first().click();assert.equal(await p.locator('#retail-list button').count(),1);
+            assert.equal(await p.locator('#retail-history p').count(),3);
+            await p.locator('#retail-offers').uncheck();await p.locator('#retail-query').fill('Beans');await p.locator('#retail-results button').first().click();
+            assert.equal(await p.locator('#retail-totals p').count(),2);
+            assert.ok((await p.locator('#retail-totals p').last().innerText()).includes('1'));
+            await p.reload();await p.waitForFunction(()=>document.querySelectorAll('#retail-list button').length===2);
+            assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+            await p.locator('#retail').scrollIntoViewIfNeeded();await p.screenshot({path:'screenshots/TEST-retail-'+lang+'.png'});
+            assert.deepEqual(errors,[]);await ctx.close();console.log('isolated retail',lang,'passed');
+          }
+          assert.deepEqual(JSON.parse(readFileSync('public/retail.json')),JSON.parse(readFileSync('data/retail.json')));
           assert.equal(readFileSync('public/google62b1133f7c042e9b.html','utf8').trim(),'google-site-verification: google62b1133f7c042e9b.html');for(const l of ['es','en','de','fr','it'])assert.ok(readFileSync('public/sitemap.xml','utf8').includes('https://precioradar-rd.pages.dev/'+l+'/'));assert.ok(readFileSync('public/robots.txt','utf8').includes('https://precioradar-rd.pages.dev/sitemap.xml'));assert.deepEqual(JSON.parse(readFileSync('public/proconsumidor.json')),JSON.parse(readFileSync('data/proconsumidor.json')));
           }finally{await browser.close();server.close()}
           JS
@@ -43,6 +69,7 @@ jobs:
         with:
           name: visual-review
           path: screenshots
+          retention-days: 3
       - uses: actions/upload-artifact@v4
         with:
           name: licensed-price-data

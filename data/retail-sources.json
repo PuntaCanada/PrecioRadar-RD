@@ -1,0 +1,61 @@
+[
+  {
+    "id": "sirena",
+    "retailer": "Sirena",
+    "host": "www.sirena.do",
+    "approved": false,
+    "terms": "https://www.sirena.do/terminos-y-condiciones",
+    "reason": "Express permission required"
+  },
+  {
+    "id": "nacional",
+    "retailer": "Nacional",
+    "host": "supermercadosnacional.com",
+    "approved": false,
+    "terms": "https://supermercadosnacional.com/terminos-y-condiciones"
+  },
+  {
+    "id": "jumbo",
+    "retailer": "Jumbo",
+    "host": "jumbo.com.do",
+    "approved": false,
+    "terms": "https://jumbo.com.do/terms-and-conditions-app"
+  },
+  {
+    "id": "pricesmart",
+    "retailer": "PriceSmart",
+    "host": "www.pricesmart.com",
+    "approved": false,
+    "terms": "https://www.pricesmart.com/es-do/terminos-y-condiciones"
+  },
+  {
+    "id": "bravo",
+    "retailer": "Bravo",
+    "approved": false,
+    "reason": "Reuse and feed not verified"
+  },
+  {
+    "id": "olé",
+    "retailer": "Olé",
+    "approved": false,
+    "reason": "Reuse and feed not verified"
+  },
+  {
+    "id": "plaza lama",
+    "retailer": "Plaza Lama",
+    "approved": false,
+    "reason": "Reuse and feed not verified"
+  },
+  {
+    "id": "aprezio",
+    "retailer": "Aprezio",
+    "approved": false,
+    "reason": "Reuse and feed not verified"
+  },
+  {
+    "id": "sidip",
+    "retailer": "SIDIP",
+    "approved": false,
+    "reason": "Reuse and feed not verified"
+  }
+]

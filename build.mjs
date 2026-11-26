@@ -17,3 +17,25 @@ writeFileSync('public/robots.txt','User-agent: *\nAllow: /\n'+(origin?'Sitemap: 
 if(licensed.length)writeFileSync('public/proconsumidor.json',JSON.stringify(licensed,null,2));
 
 writeFileSync('public/google62b1133f7c042e9b.html','google-site-verification: google62b1133f7c042e9b.html\n');
+
+import {normalize,latest,basePrice,baskets} from './retail.mjs';
+const retailSources=JSON.parse(readFileSync('data/retail-sources.json','utf8'));
+const retailRows=normalize(JSON.parse(readFileSync('data/retail.json','utf8')),retailSources);
+writeFileSync('public/retail.json',JSON.stringify(retailRows));
+const retailLabels=[
+['Comparar supermercados','Todavía no hay precios de tiendas autorizados. Consulta las estadísticas oficiales abajo.','Ciudad','Producto','Ofertas verificadas','Lista de compras','Historial','Sin precios vigentes','Añadir','Quitar','Precio por unidad','Total por tienda','Faltan productos'],
+['Compare supermarkets','No authorized store prices yet. Official statistics are available below.','City','Product','Verified offers','Shopping list','History','No current prices','Add','Remove','Unit price','Total by store','Missing products'],
+['Supermärkte vergleichen','Noch keine freigegebenen Filialpreise. Amtliche Statistiken findest du unten.','Stadt','Produkt','Geprüfte Angebote','Einkaufsliste','Preisverlauf','Keine aktuellen Preise','Hinzufügen','Entfernen','Grundpreis','Gesamtpreis je Filiale','Produkte fehlen'],
+['Comparer les supermarchés','Aucun prix de magasin autorisé pour le moment. Statistiques officielles ci-dessous.','Ville','Produit','Offres vérifiées','Liste de courses','Historique','Aucun prix actuel','Ajouter','Retirer','Prix unitaire','Total par magasin','Produits manquants'],
+['Confronta supermercati','Nessun prezzo autorizzato dei negozi. Statistiche ufficiali qui sotto.','Città','Prodotto','Offerte verificate','Lista della spesa','Storico','Nessun prezzo attuale','Aggiungi','Rimuovi','Prezzo unitario','Totale per negozio','Prodotti mancanti']
+];
+mkdirSync('public',{recursive:true});
+writeFileSync('public/retail.mjs',readFileSync('retail.mjs'));
+writeFileSync('public/retail-ui.mjs',readFileSync('retail-ui.mjs'));
+for(const [i,l] of langs.entries()){
+ const t=retailLabels[i];
+ const html='<article id="retail"><h2>'+t[0]+'</h2><p id="retail-status" role="status">'+t[1]+'</p><div class="filters"><div><label for="retail-city">'+t[2]+'</label><select id="retail-city"><option value="">'+allLabels[i]+'</option></select></div><div><label for="retail-query">'+t[3]+'</label><input id="retail-query" type="search"></div></div><label><input type="checkbox" id="retail-offers"> '+t[4]+'</label><div id="retail-results"></div><h3>'+t[5]+'</h3><div id="retail-list"></div><h3>'+t[11]+'</h3><div id="retail-totals"></div><h3>'+t[6]+'</h3><div id="retail-history"></div><script type="application/json" id="retail-labels">'+JSON.stringify(t)+'</script><script type="module" src="/retail-ui.mjs"></script></article>';
+ for(const path of ['public/'+l+'/index.html',...(l==='es'?['public/index.html']:[])]){
+ const original=readFileSync(path,'utf8');writeFileSync(path,original.replace('</section><h2>','</section>'+html+'<h2>'));
+ }
+}
