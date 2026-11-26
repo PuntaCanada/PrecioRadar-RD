@@ -1,0 +1,30 @@
+name: Refresh licensed price database
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * 1'
+permissions:
+  contents: read
+concurrency:
+  group: price-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.repository == 'PuntaCanada/PrecioRadar-RD' && github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh validated database
+        run: PRICE_REUSE_APPROVED=yes python3 import_prices.py
+      - run: SITE_URL=https://example.com node build.mjs
+      - name: Persist changed database
+        run: |
+          git add data/proconsumidor.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh validated licensed price database'
+          git push origin HEAD:main

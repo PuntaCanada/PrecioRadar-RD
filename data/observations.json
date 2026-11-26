@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Batata Blanca",
+    "unit": "libra",
+    "price": 44.29,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Ñame Americano",
+    "unit": "libra",
+    "price": 67.14,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Ñame Mina",
+    "unit": "libra",
+    "price": 83.33,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Papa",
+    "unit": "libra",
+    "price": 43.57,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Yautía Amarilla",
+    "unit": "libra",
+    "price": 98.33,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Yautía Blanca",
+    "unit": "libra",
+    "price": 98.57,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Yautía Coco",
+    "unit": "libra",
+    "price": 47.14,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Yuca Bilin",
+    "unit": "libra",
+    "price": 34.29,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Plátano Grande",
+    "unit": "unidad",
+    "price": 33.71,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Plátano Mediano",
+    "unit": "unidad",
+    "price": 26.43,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Plátano FHIA",
+    "unit": "unidad",
+    "price": 12.5,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Guineo Verde",
+    "unit": "unidad",
+    "price": 8.36,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/37",
+    "sector": "Mercado"
+  },
+  {
+    "name": "Arroz Súper Selecto",
+    "unit": "libra",
+    "price": 39.57,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/33",
+    "sector": "Mercado"
+  }
+]

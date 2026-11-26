@@ -1,0 +1,4562 @@
+[
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Galón 128 Oz",
+    "price": 656.9,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Galón 64 Oz",
+    "price": 369.32,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Endy",
+    "unit": "Cartón 30 Uds",
+    "price": 259.32,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Fresa",
+    "unit": "Libra",
+    "price": 201.5,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Costilla de Cerdo",
+    "unit": "Libra",
+    "price": 197.76,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Oliva Goya",
+    "unit": "Envase 250 ml",
+    "price": 378.28,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económicos",
+    "unit": "Cartón 30 Uds",
+    "price": 210.91,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 271.07,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Instantánea Económica",
+    "unit": "Funda, 800 g.",
+    "price": 408.44,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Selecto",
+    "unit": "Libra",
+    "price": 162.42,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Envase 16 Oz",
+    "price": 92.8,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Agua",
+    "unit": "Envase 5 litros",
+    "price": 108.82,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Cerdo Para Guisar",
+    "unit": "Libra",
+    "price": 130.13,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Oliva Figaro",
+    "unit": "Envase 250 ml",
+    "price": 363.66,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Gandules Verdes",
+    "unit": "Libra",
+    "price": 168.99,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco de Freír",
+    "unit": "Libra",
+    "price": 249.92,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 285g",
+    "price": 60.14,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Selecto",
+    "unit": "04 Cabeza",
+    "price": 64.22,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Paleta de Cerdo",
+    "unit": "Libra",
+    "price": 116.38,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Giselle",
+    "unit": "Funda 400 g.",
+    "price": 65.74,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Funda 5 Libra",
+    "price": 182.36,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela",
+    "unit": "Libra",
+    "price": 58.78,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Sobao",
+    "unit": "Funda 10 Uds.",
+    "price": 67.0,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Trigo Blanquita",
+    "unit": "Funda 907 g.",
+    "price": 92.69,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano Verde",
+    "unit": "Unidad",
+    "price": 19.57,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Sanjuaneras",
+    "unit": "Funda 400 g.",
+    "price": 64.49,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Sanjuaneras",
+    "unit": "Funda 400 g.",
+    "price": 87.49,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Repollo",
+    "unit": "Unidad",
+    "price": 104.0,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chinola",
+    "unit": "Libra",
+    "price": 76.82,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Limones Persas",
+    "unit": "Libra",
+    "price": 54.46,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 29.64,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 48.79,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 26.0,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Bugalu",
+    "unit": "Libra",
+    "price": 46.92,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechosa Hawaiana",
+    "unit": "Libra",
+    "price": 19.85,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida entera Parmalat",
+    "unit": "Litro",
+    "price": 85.01,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Marrones",
+    "unit": "Cartón de 12 Uds",
+    "price": 153.15,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida la Vaquita",
+    "unit": "Litro",
+    "price": 68.61,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Similac No.1",
+    "unit": "Lata 400 g.",
+    "price": 808.32,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Batata",
+    "unit": "Libra",
+    "price": 30.06,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "1.47 Libra",
+    "price": 230.55,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta de Cerdo Fresca",
+    "unit": "Libra",
+    "price": 155.08,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Berenjenas",
+    "unit": "Libra",
+    "price": 31.13,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Blanca y/o Amarilla",
+    "unit": "Libra",
+    "price": 50.54,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 g.",
+    "price": 40.66,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Envase 500 g.",
+    "price": 47.3,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tilapia Roja",
+    "unit": "Libra",
+    "price": 157.35,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 75.79,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Marca Blanca",
+    "unit": "Funda 10 Lb.",
+    "price": 333.74,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 121.08,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Americana",
+    "unit": "Funda 590 g.",
+    "price": 87.4,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Milex",
+    "unit": "Litro",
+    "price": 92.0,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineo maduro",
+    "unit": "Libra",
+    "price": 20.3,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Linda",
+    "unit": "Lata 900g.",
+    "price": 200.99,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 325 g.",
+    "price": 311.4,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Papa Blanca",
+    "unit": "Libra",
+    "price": 43.71,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 33.66,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Listamilk Rica",
+    "unit": "Litro",
+    "price": 77.16,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 83.75,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Pimco Premium",
+    "unit": "Funda 10 Lb.",
+    "price": 446.08,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 1,500 g.",
+    "price": 1455.35,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Kinder",
+    "unit": "Funda 800 g.",
+    "price": 837.53,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 166.32,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Instantánea",
+    "unit": "Funda, 800 g.",
+    "price": 831.65,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineos Verdes",
+    "unit": "Libra",
+    "price": 17.71,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Paco Fish",
+    "unit": "Lata7.6 Oz/ 215g.",
+    "price": 73.44,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sopita Maggi",
+    "unit": "Caja12 Uds.",
+    "price": 101.99,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 160.38,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Trigo Milano",
+    "unit": "Funda 907 g.",
+    "price": 78.38,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 41.43,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106gr./ 95 g.",
+    "price": 56.48,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Bacalao con Espinas Noruego",
+    "unit": "Libra",
+    "price": 267.75,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite De Soya",
+    "unit": "Envase 900 ml",
+    "price": 129.23,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Bisonó Enriquecido",
+    "unit": "Funda 10Lb.",
+    "price": 421.26,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos don Papito",
+    "unit": "Cartón 30 Uds",
+    "price": 259.75,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Caja 10 unid 26g.",
+    "price": 117.08,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Sobre 125 g.",
+    "price": 109.73,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nestógeno No.1",
+    "unit": "Lata 900 g.",
+    "price": 898.45,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 48.0,
+    "period": "2026-07",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Similac No.1",
+    "unit": "Lata 400 g.",
+    "price": 788.13,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Instantánea Económica",
+    "unit": "Funda, 800 g.",
+    "price": 384.32,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos don Papito",
+    "unit": "Cartón 30 Uds",
+    "price": 259.74,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Galón 64 Oz",
+    "price": 344.53,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 277.31,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Dorina",
+    "unit": "Tarro 15 Oz",
+    "price": 153.92,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Marrones",
+    "unit": "Cartón de 12 Uds",
+    "price": 143.65,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pierna de Cerdo",
+    "unit": "Libra",
+    "price": 129.61,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Agua",
+    "unit": "Envase 5 litros",
+    "price": 111.4,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame",
+    "unit": "Libra",
+    "price": 94.33,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Paleta de Res",
+    "unit": "Libra",
+    "price": 219.89,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Giselle",
+    "unit": "Funda 400 g.",
+    "price": 83.48,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Cerdo Para Guisar",
+    "unit": "Libra",
+    "price": 131.99,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Blanca y/o Amarilla",
+    "unit": "Libra",
+    "price": 48.93,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Americana",
+    "unit": "Funda 590 g.",
+    "price": 86.71,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Batata",
+    "unit": "Libra",
+    "price": 29.3,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineos Verdes",
+    "unit": "Libra",
+    "price": 17.48,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Selecto",
+    "unit": "04 Cabeza",
+    "price": 62.07,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineo maduro",
+    "unit": "Libra",
+    "price": 20.27,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Lata 900 g.",
+    "price": 198.53,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida la Vaquita",
+    "unit": "Litro",
+    "price": 69.01,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 2,000 g.",
+    "price": 1930.43,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Paleta de Cerdo",
+    "unit": "Libra",
+    "price": 115.5,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Funda 5 Libra",
+    "price": 181.21,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Linda",
+    "unit": "Lata 900g.",
+    "price": 200.24,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106gr./ 95 g.",
+    "price": 56.39,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 1,000 g.",
+    "price": 931.08,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña",
+    "unit": "Unidad",
+    "price": 107.46,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 285g",
+    "price": 58.67,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 83.6,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Listamilk Rica",
+    "unit": "Litro",
+    "price": 77.37,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Repollo",
+    "unit": "Unidad",
+    "price": 110.0,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 48.36,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne Molida de Primera Regular",
+    "unit": "Libra",
+    "price": 209.08,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tilapia Roja",
+    "unit": "Libra",
+    "price": 156.46,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Funda Libra",
+    "price": 414.93,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Oliva Goya",
+    "unit": "Envase 250 ml",
+    "price": 373.99,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta Ahumada Corriente con Hueso",
+    "unit": "Libra",
+    "price": 132.42,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Alacta Plus",
+    "unit": "Lata 800 g.",
+    "price": 1190.43,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 121.54,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Res No. 7",
+    "unit": "Libra",
+    "price": 220.3,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 2200 g.",
+    "price": 1659.7,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela",
+    "unit": "Libra",
+    "price": 57.99,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 800 g.",
+    "price": 775.99,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto la Garza",
+    "unit": "Funda 10Lb.",
+    "price": 469.82,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Berenjenas",
+    "unit": "Libra",
+    "price": 31.35,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 159.71,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Campo",
+    "unit": "Funda 10 Lb.",
+    "price": 475.58,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 325 g.",
+    "price": 310.82,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida entera Parmalat",
+    "unit": "Litro",
+    "price": 85.01,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 76.36,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 g.",
+    "price": 41.98,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Sobre 125 g.",
+    "price": 109.55,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Procesado Fresco Cibao",
+    "unit": "Libra",
+    "price": 84.24,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Blanca",
+    "unit": "Libra",
+    "price": 79.62,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Pimco Premium",
+    "unit": "Funda 10 Lb.",
+    "price": 454.23,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Paco Fish",
+    "unit": "Lata7.6 Oz/ 215g.",
+    "price": 73.09,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Super Especial Sosua",
+    "unit": "1.5 Libra",
+    "price": 197.6,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 166.09,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Envase 500 g.",
+    "price": 47.3,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 290 ml",
+    "price": 62.26,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Integral Lumijor",
+    "unit": "Funda 19 oz (550g)",
+    "price": 137.32,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 1,500 g.",
+    "price": 1455.17,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Oliva Figaro",
+    "unit": "Envase 250 ml",
+    "price": 374.7,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite De Soya",
+    "unit": "Envase 900 ml",
+    "price": 129.23,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Envase 16 Oz",
+    "price": 93.82,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya La Joya",
+    "unit": "Envase 16 Oz",
+    "price": 92.89,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Procesado Fresco don Pollo",
+    "unit": "Libra",
+    "price": 84.24,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate la Famosa",
+    "unit": "Lata 8 g.",
+    "price": 64.21,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Instantánea",
+    "unit": "Funda, 800 g.",
+    "price": 834.24,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Bugalu",
+    "unit": "Libra",
+    "price": 47.14,
+    "period": "2026-08",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Instantánea",
+    "unit": "Funda, 800 g.",
+    "price": 736.88,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Fresa",
+    "unit": "Libra",
+    "price": 235.5,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 186.9,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco de Freír",
+    "unit": "Libra",
+    "price": 255.86,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Linea Blanca",
+    "unit": "Funda 800 g.",
+    "price": 86.8,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Papa Blanca",
+    "unit": "Libra",
+    "price": 44.79,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya Crisol",
+    "unit": "Galón 64 Oz",
+    "price": 339.26,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nestógeno No.1",
+    "unit": "Lata 400 g.",
+    "price": 433.87,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Oliva Goya",
+    "unit": "Envase 250 ml",
+    "price": 375.42,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Linea Blanca",
+    "unit": "Funda 800 g.",
+    "price": 131.88,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Endy",
+    "unit": "Cartón 30 Uds",
+    "price": 268.49,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Dorina",
+    "unit": "Tarro 15 Oz",
+    "price": 149.0,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 74.21,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 274.71,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Cerdo Para Guisar",
+    "unit": "Libra",
+    "price": 126.49,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 108.58,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 164.09,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Repollo",
+    "unit": "Unidad",
+    "price": 105.83,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tilapia Roja",
+    "unit": "Libra",
+    "price": 156.36,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Auyama",
+    "unit": "Libra",
+    "price": 36.18,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan de Agua",
+    "unit": "Funda 10 uds.",
+    "price": 54.69,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 26.29,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 g.",
+    "price": 41.52,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Baby m1",
+    "unit": "Lata 400 g.",
+    "price": 429.89,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 2200 g.",
+    "price": 1622.35,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 158.93,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Sobao",
+    "unit": "Funda 10 uds.",
+    "price": 69.52,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Funda Libra",
+    "price": 414.64,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Rica",
+    "unit": "Funda, 2,200 g.",
+    "price": 1256.19,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Costilla de Cerdo",
+    "unit": "Libra",
+    "price": 196.57,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Funda 12 Sobre 28.35 g.",
+    "price": 395.31,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátanos Verde",
+    "unit": "Unidad",
+    "price": 20.14,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 40.57,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Alacta Plus",
+    "unit": "Lata 800 g.",
+    "price": 1188.49,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Blanco Lumijor",
+    "unit": "18.5 oz (525g)",
+    "price": 118.11,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Blanca y/o Amarilla",
+    "unit": "Libra",
+    "price": 49.93,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida entera Parmalat",
+    "unit": "Litro",
+    "price": 84.78,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 1,000 g.",
+    "price": 929.74,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de soya La Joya",
+    "unit": "Envase 16 Oz",
+    "price": 92.25,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 120.84,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Marrones",
+    "unit": "Cartón de 12 Uds",
+    "price": 155.11,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Baby m1",
+    "unit": "Lata 900 g.",
+    "price": 926.39,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Manzana Roja",
+    "unit": "Libra",
+    "price": 83.92,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Lata 8 g.",
+    "price": 59.53,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nido Crecimiento",
+    "unit": "Funda, 800 g.",
+    "price": 765.26,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo M 1 Gold",
+    "unit": "Lata 800g",
+    "price": 1483.69,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Americana",
+    "unit": "Funda 590 g.",
+    "price": 86.17,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 290 ml",
+    "price": 61.99,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Res No. 7",
+    "unit": "Libra",
+    "price": 220.3,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 285g",
+    "price": 59.43,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Trigo Milano",
+    "unit": "Funda 907 g.",
+    "price": 78.44,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Linda",
+    "unit": "Lata 900g.",
+    "price": 201.49,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate la Famosa",
+    "unit": "Lata 8 g.",
+    "price": 64.21,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 33.99,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106gr./ 95 g.",
+    "price": 57.28,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex Kinder",
+    "unit": "Funda 800 g.",
+    "price": 833.82,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda, 1,500 g.",
+    "price": 1461.9,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Funda 360 g.",
+    "price": 371.91,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Nestógeno No.1",
+    "unit": "Lata 900 g.",
+    "price": 892.22,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Kanny Instantánea",
+    "unit": "Funda 1500 g.",
+    "price": 1167.25,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Rica",
+    "unit": "Funda, 1,500 g.",
+    "price": 896.72,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas Giselle",
+    "unit": "Funda 400 g.",
+    "price": 84.18,
+    "period": "2026-09",
+    "sector": "supermercados grandes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Selecto",
+    "unit": "Libra",
+    "price": 151.64,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 213.14,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 43.61,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela",
+    "unit": "Libra",
+    "price": 65.0,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Funda 5 Libra",
+    "price": 213.42,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Dorina",
+    "unit": "Tarro 15 Oz",
+    "price": 158.55,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 178.85,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 16 Oz",
+    "price": 86.88,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 618 g.",
+    "price": 92.36,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 109.35,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 43.14,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 34.38,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 25.16,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina de Tomate Paco Fish en Salsa de Tomate",
+    "unit": "Lata7.6 Oz/ 215 g.",
+    "price": 68.82,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano Barahoneros",
+    "unit": "Unidad",
+    "price": 23.63,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan de Agua",
+    "unit": "Funda 10 Uds.",
+    "price": 56.05,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Res No. 7",
+    "unit": "Libra",
+    "price": 229.49,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Lata 8 g.",
+    "price": 61.89,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 71.76,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Listamilk Rica",
+    "unit": "Litro",
+    "price": 80.28,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta Ahumada Corriente con Hueso",
+    "unit": "Libra",
+    "price": 145.61,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 58.21,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta De Tomate la Famosa",
+    "unit": "Lata 8 g.",
+    "price": 62.21,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 g.",
+    "price": 39.42,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 110.59,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Roja Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 167.48,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineos Verdes",
+    "unit": "Libra",
+    "price": 20.19,
+    "period": "2026-07",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Roja Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 167.48,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Gandules Verdes",
+    "unit": "Libra",
+    "price": 202.8,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Res No. 7",
+    "unit": "Libra",
+    "price": 221.59,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Selecto",
+    "unit": "Libra",
+    "price": 151.0,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 175.17,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela",
+    "unit": "Libra",
+    "price": 56.07,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Dorina",
+    "unit": "Tarro 15 Oz",
+    "price": 155.5,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Funda 5 Libra",
+    "price": 215.01,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económicos",
+    "unit": "Cartón 30 Uds",
+    "price": 213.06,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Roja Linea Blanca",
+    "unit": "Funda 800 g.",
+    "price": 149.33,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Caja 10 Uds. / 26 g.",
+    "price": 116.44,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 108.16,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 35.0,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan de Agua",
+    "unit": "Funda 10 Uds.",
+    "price": 55.38,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Blanca",
+    "unit": "Libra",
+    "price": 90.68,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 285g.",
+    "price": 59.77,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Batata",
+    "unit": "Libra",
+    "price": 31.22,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 46.93,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Funda 454 g",
+    "price": 16.33,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 31.41,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 60.07,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 76.57,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 16 Oz",
+    "price": 89.13,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106gr./ 95 g.",
+    "price": 48.11,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame",
+    "unit": "Libra",
+    "price": 90.66,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 215.78,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Sobao",
+    "unit": "Funda 10 Uds.",
+    "price": 66.71,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 71.72,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Linea Blanca",
+    "unit": "Funda 10 Libra",
+    "price": 371.12,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Envase 500 g.",
+    "price": 43.63,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 25.28,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineos Verdes",
+    "unit": "Libra",
+    "price": 20.19,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "1.47 Libra",
+    "price": 233.22,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Campo",
+    "unit": "Libra",
+    "price": 52.59,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Cerdo Para Guisar",
+    "unit": "Libra",
+    "price": 138.75,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta De Tomate la Famosa",
+    "unit": "Lata 8 g.",
+    "price": 63.07,
+    "period": "2026-08",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pinta Linea Blanca",
+    "unit": "Funda 800 g.",
+    "price": 92.71,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Cerdo Para Guisar",
+    "unit": "Libra",
+    "price": 136.66,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Linea Blanca",
+    "unit": "Funda 10 Libra",
+    "price": 367.35,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Roja Linea Blanca",
+    "unit": "Funda 800 g.",
+    "price": 145.84,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "1.47 Libra",
+    "price": 229.85,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Papa Blanca",
+    "unit": "Libra",
+    "price": 48.57,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 215.24,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 24.63,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela",
+    "unit": "Libra",
+    "price": 52.43,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sopita Maggi",
+    "unit": "Caja12 uds.",
+    "price": 99.19,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame",
+    "unit": "Libra",
+    "price": 89.23,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 61.0,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta De Tomate la Famosa",
+    "unit": "Lata 8 g.",
+    "price": 62.63,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta Ahumada Corriente con Hueso",
+    "unit": "Libra",
+    "price": 144.66,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 g.",
+    "price": 39.84,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 618 g.",
+    "price": 94.35,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Funda 5 Libra",
+    "price": 178.95,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 109.83,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económicos",
+    "unit": "Cartón 30 Uds",
+    "price": 218.92,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Caja 10 Uds. / 26 g.",
+    "price": 117.94,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 285g.",
+    "price": 59.69,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Carne de Res No. 7",
+    "unit": "Libra",
+    "price": 223.41,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Roja Sanjuaneras",
+    "unit": "Funda 800 g.",
+    "price": 167.48,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 31.3,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 72.53,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineos Verdes",
+    "unit": "Libra",
+    "price": 20.19,
+    "period": "2026-09",
+    "sector": "supermercados pequeños",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sandía Pequeña",
+    "unit": "Unidad",
+    "price": 121.43,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espinaca",
+    "unit": "Paq. Grande",
+    "price": 145.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sandía Mediana",
+    "unit": "Unidad",
+    "price": 200.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña Mediana",
+    "unit": "Unidad",
+    "price": 77.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Puerro",
+    "unit": "Paq. Grande",
+    "price": 124.29,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cereza",
+    "unit": "Lata 4 kilo",
+    "price": 255.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vainita Larga",
+    "unit": "Libra",
+    "price": 56.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Melón Cantaloupe Mediano",
+    "unit": "Unidad",
+    "price": 57.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sandía Grande",
+    "unit": "Unidad",
+    "price": 292.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Apio",
+    "unit": "Libra",
+    "price": 38.57,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Rotí con Hueso",
+    "unit": "Libra",
+    "price": 212.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña Grande",
+    "unit": "Unidad",
+    "price": 112.5,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela Verde",
+    "unit": "Libra",
+    "price": 50.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame Mina",
+    "unit": "Libra",
+    "price": 87.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame Americano",
+    "unit": "Libra",
+    "price": 81.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuela Roja José Beta",
+    "unit": "Libra",
+    "price": 75.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Amarilla Importada",
+    "unit": "Libra",
+    "price": 48.57,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Pecho con Hueso",
+    "unit": "Libra",
+    "price": 159.29,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Coco",
+    "unit": "Libra",
+    "price": 47.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuela Blanca Importada",
+    "unit": "Libra",
+    "price": 56.43,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 50.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Brócolis",
+    "unit": "Libra",
+    "price": 57.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Primera",
+    "unit": "Libra",
+    "price": 125.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 38.57,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Blanca",
+    "unit": "Libra",
+    "price": 77.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Melón Cantaloupe Grande",
+    "unit": "Unidad",
+    "price": 83.33,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Bugalú",
+    "unit": "Libra",
+    "price": 28.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Molondrón",
+    "unit": "Libra",
+    "price": 40.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Batata Blanca",
+    "unit": "Libra",
+    "price": 22.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zapote Mediano",
+    "unit": "Unidad",
+    "price": 27.86,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano FHIA - 20",
+    "unit": "Unidad",
+    "price": 8.25,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 63.57,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto",
+    "unit": "Libra",
+    "price": 36.57,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 39.29,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pepino",
+    "unit": "Unidad",
+    "price": 20.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aguacate",
+    "unit": "Unidad",
+    "price": 47.14,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Mango",
+    "unit": "Unidad",
+    "price": 21.67,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Amarilla",
+    "unit": "Libra",
+    "price": 80.43,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Superior",
+    "unit": "Libra",
+    "price": 33.83,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Maíz Amarillo",
+    "unit": "Libra",
+    "price": 25.0,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano Grande",
+    "unit": "Unidad",
+    "price": 25.71,
+    "period": "2026-07",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sandía Grande",
+    "unit": "Unidad",
+    "price": 283.33,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espinaca",
+    "unit": "Paq. Grande",
+    "price": 158.57,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Naranja Agria",
+    "unit": "Docena",
+    "price": 222.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechuga Repollada",
+    "unit": "Libra",
+    "price": 42.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña Mediana",
+    "unit": "Unidad",
+    "price": 73.75,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sandía Pequeña",
+    "unit": "Unidad",
+    "price": 110.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aguacate",
+    "unit": "Unidad",
+    "price": 39.29,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechosa Mediana",
+    "unit": "Unidad",
+    "price": 67.14,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Gustoso Verde",
+    "unit": "Libra",
+    "price": 190.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechosa Grande",
+    "unit": "Unidad",
+    "price": 102.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Puerro",
+    "unit": "Paq. Grande",
+    "price": 132.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 35.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Coco Seco",
+    "unit": "Unidad",
+    "price": 65.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Remolacha",
+    "unit": "Libra",
+    "price": 37.14,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechuga en hojas",
+    "unit": "Libra",
+    "price": 50.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Apio",
+    "unit": "Libra",
+    "price": 36.43,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela Verde",
+    "unit": "Libra",
+    "price": 40.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Repollo Blanco",
+    "unit": "Unidad",
+    "price": 145.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Bola con Hueso",
+    "unit": "Libra",
+    "price": 220.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Cadera con Hueso",
+    "unit": "Libra",
+    "price": 220.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Rotí con Hueso",
+    "unit": "Libra",
+    "price": 220.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 32.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Berenjenas Morada",
+    "unit": "Unidad",
+    "price": 22.14,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Bugalú",
+    "unit": "Libra",
+    "price": 27.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame Mina",
+    "unit": "Libra",
+    "price": 80.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña Grande",
+    "unit": "Unidad",
+    "price": 111.43,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame Americano",
+    "unit": "Libra",
+    "price": 72.5,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Coliflor",
+    "unit": "Libra",
+    "price": 55.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Brócolis",
+    "unit": "Libra",
+    "price": 55.71,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta de Cerdo Fresca",
+    "unit": "Libra",
+    "price": 132.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano FHIA - 20",
+    "unit": "Unidad",
+    "price": 10.67,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Amarilla",
+    "unit": "Libra",
+    "price": 79.29,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Amarilla Importada",
+    "unit": "Libra",
+    "price": 50.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Melón Cantaloupe Mediano",
+    "unit": "Unidad",
+    "price": 68.75,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zapote Mediano",
+    "unit": "Unidad",
+    "price": 30.83,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pepino",
+    "unit": "Unidad",
+    "price": 22.14,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineo Verde",
+    "unit": "Unidad",
+    "price": 6.43,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Superior",
+    "unit": "Libra",
+    "price": 34.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuela Blanca Importada",
+    "unit": "Libra",
+    "price": 59.29,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 82.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 37.14,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vainita Larga",
+    "unit": "Libra",
+    "price": 66.67,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Papa",
+    "unit": "Libra",
+    "price": 46.43,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta de Cerdo Ahumada",
+    "unit": "Libra",
+    "price": 127.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto",
+    "unit": "Libra",
+    "price": 36.86,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 52.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Coco",
+    "unit": "Libra",
+    "price": 50.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Limón Criollo",
+    "unit": "Docena",
+    "price": 100.0,
+    "period": "2026-08",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Verdurita",
+    "unit": "Paq. Grande",
+    "price": 97.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espinaca",
+    "unit": "Paq. Grande",
+    "price": 167.86,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Gustoso Verde",
+    "unit": "Libra",
+    "price": 180.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Cadera con Hueso",
+    "unit": "Libra",
+    "price": 220.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Rotí con Hueso",
+    "unit": "Libra",
+    "price": 220.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Coco Seco",
+    "unit": "Unidad",
+    "price": 65.71,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Primera",
+    "unit": "Libra",
+    "price": 127.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Naranja Agria",
+    "unit": "Docena",
+    "price": 180.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Piña Mediana",
+    "unit": "Unidad",
+    "price": 78.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Bola con Hueso",
+    "unit": "Libra",
+    "price": 223.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechosa Mediana",
+    "unit": "Unidad",
+    "price": 79.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zapote Grande",
+    "unit": "Unidad",
+    "price": 50.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Morrón",
+    "unit": "Libra",
+    "price": 66.43,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 33.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechuga en hojas",
+    "unit": "Libra",
+    "price": 43.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechuga Repollada",
+    "unit": "Libra",
+    "price": 36.43,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zapote Mediano",
+    "unit": "Unidad",
+    "price": 29.17,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Lechosa Pequeña",
+    "unit": "Unidad",
+    "price": 54.17,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Coco",
+    "unit": "Libra",
+    "price": 47.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuela Blanca Importada",
+    "unit": "Libra",
+    "price": 58.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 39.29,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuela Yacomelo",
+    "unit": "Libra",
+    "price": 70.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vainita Larga",
+    "unit": "Libra",
+    "price": 67.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame Mina",
+    "unit": "Libra",
+    "price": 81.43,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Melón Cantaloupe Grande",
+    "unit": "Unidad",
+    "price": 113.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Remolacha",
+    "unit": "Libra",
+    "price": 32.86,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 81.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto",
+    "unit": "Libra",
+    "price": 36.43,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Superior",
+    "unit": "Libra",
+    "price": 34.17,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Res Pecho con Hueso",
+    "unit": "Libra",
+    "price": 160.71,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ají Cubanela Verde",
+    "unit": "Libra",
+    "price": 38.57,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 54.29,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Amarilla Importada",
+    "unit": "Libra",
+    "price": 52.14,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Puerro",
+    "unit": "Paq. Grande",
+    "price": 132.86,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 35.71,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Limón Criollo",
+    "unit": "Docena",
+    "price": 100.0,
+    "period": "2026-09",
+    "sector": "mercados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco",
+    "unit": "Libra",
+    "price": 149.06,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Bacalao con Espinas Noruego",
+    "unit": "Libra",
+    "price": 255.45,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Super Selecto",
+    "unit": "Libra",
+    "price": 135.83,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 198.41,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pinta",
+    "unit": "Libra",
+    "price": 48.72,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Yacomelo",
+    "unit": "Libra",
+    "price": 67.61,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 33.58,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Negras",
+    "unit": "Libra",
+    "price": 49.24,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Blancas",
+    "unit": "Libra",
+    "price": 63.11,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas",
+    "unit": "Libra",
+    "price": 72.83,
+    "period": "2026-07",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 105.0,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas",
+    "unit": "Libra",
+    "price": 74.86,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Lata 900 g.",
+    "price": 188.3,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite Crisol",
+    "unit": "Galón 64 Oz",
+    "price": 309.2,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Envase 500 g.",
+    "price": 38.0,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto la Garza",
+    "unit": "Libra",
+    "price": 45.5,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Maíz la Famosa sin Coco",
+    "unit": "Lata 15 Oz",
+    "price": 84.25,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económicos",
+    "unit": "Cartón 30 Uds",
+    "price": 185.6,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Paco Fish Roja en Salsa de Tomate",
+    "unit": "Lata7.6 Oz/ 215 g.",
+    "price": 65.69,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Libra",
+    "price": 35.04,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Funda 454 g",
+    "price": 15.58,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Pimco",
+    "unit": "Libra",
+    "price": 41.5,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "Libra",
+    "price": 148.95,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Funda de 12 Sobre",
+    "price": 395.21,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Maizena",
+    "unit": "Caja 95 g",
+    "price": 33.86,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 618 g",
+    "price": 92.62,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106 g.",
+    "price": 50.45,
+    "period": "2026-08",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco",
+    "unit": "Libra",
+    "price": 144.5,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 179.44,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Manicera",
+    "unit": "Tarro 15 Oz",
+    "price": 102.35,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "Libra",
+    "price": 141.92,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Super Selecto",
+    "unit": "Libra",
+    "price": 141.25,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 71.96,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajdor",
+    "unit": "Caja 10 Unidad",
+    "price": 112.4,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Chef",
+    "unit": "Libra",
+    "price": 141.92,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Listamilk",
+    "unit": "Litro",
+    "price": 85.2,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 34.2,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Funda 400 G.",
+    "price": 42.68,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en Aceite de Soya",
+    "unit": "Lata 106 g.",
+    "price": 48.0,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Paco Fish Roja en Salsa de Tomate",
+    "unit": "Lata7.6 Oz/ 215 g.",
+    "price": 65.23,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto la Garza",
+    "unit": "Libra",
+    "price": 42.93,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Pimco",
+    "unit": "Libra",
+    "price": 40.85,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Libra",
+    "price": 42.2,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 55.6,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Libra",
+    "price": 33.92,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 136 ml",
+    "price": 59.06,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Blancas",
+    "unit": "Libra",
+    "price": 62.89,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Funda 14 Oz",
+    "price": 26.04,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arenque con Espinas",
+    "unit": "Libra",
+    "price": 196.25,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Avena Quaker",
+    "unit": "Funda 618 g",
+    "price": 92.4,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Bacalao con Espinas Noruego",
+    "unit": "Libra",
+    "price": 282.92,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Margarina Dorina",
+    "unit": "Tarro 15 Oz",
+    "price": 156.25,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Envase 500 g.",
+    "price": 38.0,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sobre de Sopa Maggi",
+    "unit": "Unidad",
+    "price": 37.39,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina Blanca Trigo",
+    "unit": "Libra",
+    "price": 29.55,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Campo",
+    "unit": "Libra",
+    "price": 50.68,
+    "period": "2026-09",
+    "sector": "almacenes",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco de Freír",
+    "unit": "Libra",
+    "price": 174.29,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Super Selecto",
+    "unit": "Libra",
+    "price": 170.0,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 211.46,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 64 Oz",
+    "price": 330.79,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 84.7,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 8 Oz",
+    "price": 56.34,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta Ahumada",
+    "unit": "Libra",
+    "price": 146.28,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Bacalao con Espinas Noruego",
+    "unit": "Libra",
+    "price": 285.83,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas",
+    "unit": "Libra",
+    "price": 81.96,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Sobre 57 g.",
+    "price": 16.26,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 43.03,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guandules la Famosa sin Coco",
+    "unit": "Lata 15 Oz.",
+    "price": 114.7,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Funda 454 g",
+    "price": 15.92,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz al Granel",
+    "unit": "Libra",
+    "price": 40.58,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate",
+    "unit": "Lata 8 Oz.",
+    "price": 59.35,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas",
+    "unit": "Libra",
+    "price": 65.72,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Libra",
+    "price": 39.88,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 45.45,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sopita Maggi",
+    "unit": "Unidad",
+    "price": 9.41,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Unidad",
+    "price": 14.8,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano Verde",
+    "unit": "Unidad",
+    "price": 28.3,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económico Sin Marca",
+    "unit": "Unidad",
+    "price": 7.62,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Listamilk Rica",
+    "unit": "Litro",
+    "price": 96.5,
+    "period": "2026-07",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Amarillo",
+    "unit": "Libra",
+    "price": 216.98,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 64 Oz",
+    "price": 329.5,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco de Freír",
+    "unit": "Libra",
+    "price": 175.6,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guandules la Famosa sin Coco",
+    "unit": "Lata 15 Oz.",
+    "price": 112.92,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Papa",
+    "unit": "Libra",
+    "price": 50.31,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 54.48,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Crema",
+    "unit": "Libra",
+    "price": 39.34,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate",
+    "unit": "Lata 8 Oz.",
+    "price": 60.0,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 85.0,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en aceite de Soya",
+    "unit": "Lata 106 gr./ 95 g.",
+    "price": 55.0,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz Selecto Campo",
+    "unit": "Libra",
+    "price": 55.45,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 85.42,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame",
+    "unit": "Libra",
+    "price": 86.0,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Libra",
+    "price": 49.15,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Super Selecto",
+    "unit": "Libra",
+    "price": 164.09,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Plátano Verde",
+    "unit": "Unidad",
+    "price": 28.09,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 39.55,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Zanahoria",
+    "unit": "Libra",
+    "price": 46.03,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yautía Blanca",
+    "unit": "Libra",
+    "price": 88.89,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Unidad",
+    "price": 14.62,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Huevos Económico Sin Marca",
+    "unit": "Unidad",
+    "price": 7.59,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guineo Verde",
+    "unit": "Unidad",
+    "price": 7.62,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan Sobao",
+    "unit": "Unidad",
+    "price": 7.48,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Harina de Maíz Mazorca",
+    "unit": "Libra",
+    "price": 29.63,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Batata",
+    "unit": "Libra",
+    "price": 29.0,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 8 Oz",
+    "price": 55.6,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sal Molida Refrisal",
+    "unit": "Funda 454 g",
+    "price": 17.14,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Maíz la Famosa sin Coco",
+    "unit": "Lata 15 Oz.",
+    "price": 93.98,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Sobre",
+    "price": 39.9,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 136 ml",
+    "price": 59.78,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Salami Mallita Induveca",
+    "unit": "Libra",
+    "price": 157.19,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Agua Planeta Azul",
+    "unit": "Envase 5 Galones",
+    "price": 108.78,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 16 Oz",
+    "price": 105.82,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 42.64,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Libra",
+    "price": 50.2,
+    "period": "2026-08",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Queso Blanco de Freír",
+    "unit": "Libra",
+    "price": 179.32,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Auyama",
+    "unit": "Libra",
+    "price": 64.05,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ajo Super Selecto",
+    "unit": "Libra",
+    "price": 171.22,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Tomate Ensalada",
+    "unit": "Libra",
+    "price": 49.57,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Cebolla Roja",
+    "unit": "Libra",
+    "price": 62.35,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Maíz la Famosa sin Coco",
+    "unit": "Lata 15 Oz.",
+    "price": 95.2,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Ñame",
+    "unit": "Libra",
+    "price": 75.0,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Vinagre Constanza",
+    "unit": "Envase 17.5 Oz",
+    "price": 39.9,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Aceite de Soya Crisol",
+    "unit": "Envase 8 Oz",
+    "price": 55.2,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Azúcar Blanca",
+    "unit": "Libra",
+    "price": 50.63,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Yuca",
+    "unit": "Libra",
+    "price": 41.48,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Pintas",
+    "unit": "Libra",
+    "price": 65.0,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pan de Agua",
+    "unit": "Unidad",
+    "price": 7.64,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Arroz al Granel",
+    "unit": "Libra",
+    "price": 40.58,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chocolate Embajador",
+    "unit": "Unidad",
+    "price": 14.57,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Brunswick en aceite de Soya",
+    "unit": "Lata 106 gr./ 95 g.",
+    "price": 56.1,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Guandules la Famosa sin Coco",
+    "unit": "Lata 15 Oz.",
+    "price": 117.45,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pollo Fresco",
+    "unit": "Libra",
+    "price": 86.73,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Chuleta Ahumada",
+    "unit": "Libra",
+    "price": 150.67,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate",
+    "unit": "Lata 8 Oz.",
+    "price": 61.94,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 312 ml",
+    "price": 85.31,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Habichuelas Rojas",
+    "unit": "Libra",
+    "price": 84.29,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Agua Planeta Azul",
+    "unit": "Envase 5 Galones",
+    "price": 110.06,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Pasta de Tomate Victorina",
+    "unit": "Sobre 57 g.",
+    "price": 16.84,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sardina Paco Fish en Salsa de Tomate",
+    "unit": "Lata 7.06 Oz /215 gr.",
+    "price": 72.77,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Café Santo Domingo",
+    "unit": "Sobre",
+    "price": 39.9,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche Líquida Evaporada Carnation",
+    "unit": "Lata 136 ml",
+    "price": 60.21,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Leche en Polvo Milex",
+    "unit": "Sobre, 125 g.",
+    "price": 100.0,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Sopita Maggi",
+    "unit": "Unidad",
+    "price": 9.73,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  },
+  {
+    "name": "Espaguetis Milano",
+    "unit": "Libra",
+    "price": 50.31,
+    "period": "2026-09",
+    "sector": "colmados",
+    "source": "https://www.proconsumidor.gob.do/files/precios%20de%20productos%20de%20primera%20necesidad.csv"
+  }
+]

@@ -1,0 +1,25 @@
+name: Import safety regression
+on: [pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s tests -v
+      - name: Verify real source refresh is unchanged or valid
+        run: |
+          cp data/proconsumidor.json /tmp/baseline.json
+          PRICE_REUSE_APPROVED=yes python3 import_prices.py
+          python3 - <<'PY'
+          import json
+          old=json.load(open('/tmp/baseline.json'))
+          new=json.load(open('data/proconsumidor.json'))
+          def key(r): return (r['name'].casefold(),r['unit'].casefold(),r['period'],r['sector'].casefold(),r['source'])
+          assert len(new)>=len(old)>=570
+          assert set(map(key,old))<=set(map(key,new))
+          assert len(set(map(key,new)))==len(new)
+          print('Baseline preserved:',len(old),'->',len(new))
+          PY
