@@ -8,4 +8,4 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - run: python3 inspect_source.py
+      - run: python3 import_prices.py
