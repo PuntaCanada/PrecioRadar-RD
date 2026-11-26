@@ -34,7 +34,7 @@ def parse(data):
     print('outside declared reporting period',len(outside),repr(outside[:20]))
     print('rejected price formats',len(rejected),repr(rejected[:30]))
     if len(rejected)>10: raise ValueError('Too many rejected price formats')
-    if not found or len(result)<100: raise ValueError('Incomplete data')
+    if not found or len(result)<570: raise ValueError('Incomplete data')
     return list(result.values())
 def main():
     with urllib.request.urlopen(URL,timeout=45) as r: data=r.read(20_000_001)
@@ -43,8 +43,8 @@ def main():
     print('validated',len(rows),'periods',sorted({r['period'] for r in rows}),'segments',sorted({r['sector'] for r in rows}),'sha256',hashlib.sha256(data).hexdigest())
     # Public dataset write only once exact reuse terms are documented.
     if os.getenv('PRICE_REUSE_APPROVED')!='yes': return
-    target=Path('data/observations.json')
-    old=json.loads(target.read_text())
+    target=Path('data/proconsumidor.json')
+    old=json.loads(target.read_text()) if target.exists() else []
     def key(r): return (r['name'].casefold(),r['unit'].casefold(),r.get('period',r.get('date')),r['sector'].casefold(),r['source'])
     combined={key(r):r for r in old}
     for r in rows: combined[key(r)]=r
