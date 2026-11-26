@@ -10,6 +10,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node --test tests/retail.test.mjs
       - run: test -s data/proconsumidor.json
       - run: SITE_URL=https://precioradar-rd.pages.dev node build.mjs
       - run: npm install --no-save playwright
@@ -20,7 +21,7 @@ jobs:
           import assert from 'node:assert/strict';
           import {createServer} from 'node:http';
           import {readFileSync,mkdirSync} from 'node:fs';
-          const server=createServer((req,res)=>{try{const path=new URL(req.url,'http://localhost').pathname;res.setHeader('Content-Type',path.endsWith('.svg')?'image/svg+xml':path.endsWith('.xml')?'application/xml':'text/html; charset=utf-8');res.end(readFileSync('public'+path+(path.endsWith('/')?'index.html':'')))}catch{res.statusCode=404;res.end()}});
+          const server=createServer((req,res)=>{try{const path=new URL(req.url,'http://localhost').pathname;res.setHeader('Content-Type',path.endsWith('.mjs')?'text/javascript':path.endsWith('.json')?'application/json':path.endsWith('.svg')?'image/svg+xml':path.endsWith('.xml')?'application/xml':'text/html; charset=utf-8');res.end(readFileSync('public'+path+(path.endsWith('/')?'index.html':'')))}catch{res.statusCode=404;res.end()}});
           await new Promise(r=>server.listen(0,'127.0.0.1',r));const origin='http://127.0.0.1:'+server.address().port;
           const browser=await chromium.launch();mkdirSync('screenshots',{recursive:true});
           const data=[...JSON.parse(readFileSync('data/observations.json')), ...JSON.parse(readFileSync('data/proconsumidor.json'))];
@@ -28,7 +29,7 @@ jobs:
           for(const width of [375,1440])for(const lang of ['es','en','de','fr','it'])for(const mode of ['lite','modern']){
           const ctx=await browser.newContext({viewport:{width,height:900},locale:lang});await ctx.addInitScript(m=>{if(!localStorage.getItem('display-mode'))localStorage.setItem('display-mode',m)},mode);
           const p=await ctx.newPage();const images=[],errors=[];p.on('request',r=>{if(r.resourceType()==='image')images.push(r.url())});p.on('pageerror',e=>errors.push(e.message));
-          await p.goto(origin+'/'+lang+'/');assert.equal(await p.locator('html').getAttribute('lang'),lang);assert.equal(await p.locator('html').getAttribute('data-mode'),mode);assert.equal(await p.locator('[data-observation]').count(),data.length);assert.equal(await p.locator('link[rel=canonical]').getAttribute('href'),'https://precioradar-rd.pages.dev/'+lang+'/');assert.equal(await p.locator('link[hreflang]').count(),5);assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+          await p.goto(origin+'/'+lang+'/');await p.waitForFunction(()=>document.querySelector('#retail-results').textContent.length>0);assert.ok(await p.locator('#retail-status').isVisible());assert.equal(await p.locator('#retail-city option').count(),1);assert.equal(await p.locator('html').getAttribute('lang'),lang);assert.equal(await p.locator('html').getAttribute('data-mode'),mode);assert.equal(await p.locator('[data-observation]').count(),data.length);assert.equal(await p.locator('link[rel=canonical]').getAttribute('href'),'https://precioradar-rd.pages.dev/'+lang+'/');assert.equal(await p.locator('link[hreflang]').count(),5);assert.ok(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
           await p.locator('#q').fill('Arroz');assert.ok(await p.locator('[data-observation]:visible').count()>0);
           if(mode==='modern'){await p.locator('[data-observation]:visible').first().scrollIntoViewIfNeeded();await p.waitForFunction(()=>Array.from(document.querySelectorAll('.product-illustration')).some(i=>i.complete&&i.naturalWidth>0));assert.ok(images.some(u=>u.endsWith('/illustrations/rice.svg')));assert.ok(images.every(u=>u.startsWith(origin+'/illustrations/')))}
           await p.locator('#q').fill('zzzzzz');assert.equal(await p.locator('[data-observation]:visible').count(),0);await p.locator('#q').fill('');await p.locator('#group').selectOption('libra');assert.ok(await p.locator('[data-observation]:visible').count()>0);await p.locator('#group').selectOption('');assert.equal(await p.locator('[data-observation]:visible').count(),24);await p.locator('#next').click();assert.ok((await p.locator('#count').innerText()).startsWith('25'));await p.locator('#prev').click();await p.locator('#compare').selectOption({index:1});assert.ok(await p.locator('#comparison-results p').count()>1);
