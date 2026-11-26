@@ -4,11 +4,13 @@ const money=n=>new Intl.NumberFormat(document.documentElement.lang,{style:'curre
 const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Santo_Domingo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
 let list={};try{const saved=JSON.parse(localStorage.getItem('retail-list-v1')||'{}');for(const [k,v] of Object.entries(saved))if(/^\d{14}$/.test(k)&&Number.isSafeInteger(v)&&v>0&&v<=999)list[k]=v}catch{}
 const save=()=>{try{localStorage.setItem('retail-list-v1',JSON.stringify(list))}catch{}};
-function line(el,s){const p=document.createElement('p');p.textContent=s;el.append(p);return p}
-function button(el,s,fn){const b=document.createElement('button');b.type='button';b.textContent=s;b.style.cssText='font:inherit;padding:8px;max-width:100%';b.onclick=fn;el.append(b)}
+function line(el,s){const p=document.createElement('p');p.style.cssText='margin:0;padding:12px;background:#f2f5ef;border-radius:8px;line-height:1.6';p.textContent=s;el.append(p);return p}
+function button(el,s,fn){const b=document.createElement('button');b.type='button';b.textContent=s;b.style.cssText='font:inherit;padding:10px 14px;min-height:44px;max-width:100%;border:1px solid #43885e;border-radius:8px;background:#fff;color:#174b34;cursor:pointer';b.onclick=fn;el.append(b)}
 try{
  const res=await fetch('/retail.json');if(!res.ok)throw Error('HTTP');const rows=await res.json();
  const current=latest(rows,today);
+ for(const id of ['results','list','totals','history'])$(id).style.cssText='display:grid;gap:8px;overflow-wrap:anywhere';
+ $('city').style.width='100%';$('offers').style.cssText='width:20px;height:20px;vertical-align:middle';
  for(const city of [...new Set(current.map(r=>r.city))].sort()){const o=document.createElement('option');o.value=o.textContent=city;$('city').append(o)}
  function render(){
  const local=current.filter(r=>!$('city').value||r.city===$('city').value);
