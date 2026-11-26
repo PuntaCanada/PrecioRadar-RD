@@ -94,5 +94,13 @@
     "date": "2026-11-12",
     "source": "https://sidip.gob.do/categoria/37",
     "sector": "Mercado"
+  },
+  {
+    "name": "Arroz Súper Selecto",
+    "unit": "libra",
+    "price": 39.57,
+    "date": "2026-11-12",
+    "source": "https://sidip.gob.do/categoria/33",
+    "sector": "Mercado"
   }
 ]
