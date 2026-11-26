@@ -10,3 +10,5 @@ for(const [i,l] of langs.entries()){const [title,desc]=c.labels[i];const html='<
 writeFileSync('public/robots.txt','User-agent: *\nAllow: /\n'+(origin?'Sitemap: '+origin+'/sitemap.xml\n':''));if(origin)writeFileSync('public/sitemap.xml','<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+langs.map(l=>'<url><loc>'+origin+'/'+l+'/</loc></url>').join('')+'</urlset>');
 
 if(licensed.length)writeFileSync('public/proconsumidor.json',JSON.stringify(licensed,null,2));
+
+writeFileSync('public/google62b1133f7c042e9b.html','google-site-verification: google62b1133f7c042e9b.html\n');
