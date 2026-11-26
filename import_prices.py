@@ -7,7 +7,7 @@ def parse(data):
     try: text=data.decode('utf-8-sig')
     except UnicodeDecodeError: text=data.decode('cp1252')
     rows=csv.reader(io.StringIO(text),delimiter=';')
-    found=False; result={}; rejected=[]
+    found=False; result={}; rejected=[]; outside=[]
     for row in rows:
         if row[:7]==['Id','Producto','Tipo','Precio','Mes','Año','establecimiento']:
             found=True; continue
@@ -25,10 +25,13 @@ def parse(data):
         amount=Decimal(raw)
         if not amount.is_finite() or amount<=0: raise ValueError('Invalid price')
         period=f'{year}-{MONTHS[month.lower()]:02d}'
+        if period not in ('2026-07','2026-08','2026-09'):
+            outside.append((ident,period)); continue
         key=(name.casefold(),unit.casefold(),period,sector.casefold())
         record=dict(name=name,unit=unit,price=float(amount),period=period,sector=sector,source=URL)
         if key in result and result[key]!=record: raise ValueError('Conflicting observation '+str(key))
         result[key]=record
+    print('outside declared reporting period',len(outside),repr(outside[:20]))
     print('rejected price formats',len(rejected),repr(rejected[:30]))
     if len(rejected)>10: raise ValueError('Too many rejected price formats')
     if not found or len(result)<100: raise ValueError('Incomplete data')
